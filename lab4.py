@@ -1,5 +1,5 @@
 """
-Ryan Burkhardt
+Ryan
 SDEV 300
 Lab 4
 
